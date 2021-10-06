@@ -1,0 +1,56 @@
+
+body {
+background-color: rgb(44, 94, 50);
+color: rgb(17, 1, 1);
+}
+h1 {
+font-size: 20px;
+border-bottom: dotted rgb(10, 32, 10) 2px; 
+height: 50px;  
+width: 200px;
+}
+
+
+h2 {
+font-size: 20px;
+border-bottom: dashed rgb(0, 0, 0) 3px;  
+height: 50px;  
+width: 150px;
+padding: 30px;
+margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 200px;
+
+}
+
+
+p {
+font-size: 14px;
+color: rgb(0, 0, 0);
+}
+
+#rcorners {
+    border-radius: 25px;
+    background: rgb(40, 43, 30);
+    padding: 25px; 
+    width: 100px;
+    height: 50px;
+    padding: 30px;
+margin-top: 50px;
+margin-bottom:50px;
+  margin-right: 200px;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  background: rgb(40, 43, 30);
+  padding: 25px; 
+  width: 60px;
+  height: 40px;
+  padding: 30px;
+  margin-top: 50px;
+  margin-bottom:50px;
+  margin-left: 80px;
+}
+
+

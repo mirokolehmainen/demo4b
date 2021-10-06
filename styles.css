@@ -1,0 +1,42 @@
+body {
+  background-image: url("Mukava\ maisema.JPG");
+  background-color: rgb(21, 168, 41);
+  color: rgb(17, 1, 1);
+  }
+  h1 {
+  font-size: 25px;
+  border-bottom: 2px solid rgb(33, 53, 119); 
+  height: 50px;  
+  width: 200px;
+ color: darkblue;
+}
+  
+  
+  h2 {
+  font-size: 20px;
+  border-bottom: inset 3px;  
+  height: 50px;  
+  width: 200px;
+ color: rgb(32, 32, 80);
+}
+  
+  p {
+  font-size: 14px;
+  color: rgb(1, 8, 1);
+  }
+  
+  #rcorners {
+      border-radius: 25px;
+      background: rgb(72, 96, 173);
+      padding: 20px; 
+      width: 150px;
+      height: 50px;
+  }
+
+  #rcorners2 {
+    border-radius: 25px;
+    background: rgb(108, 128, 192);
+    padding: 20px; 
+    width: 150px;
+    height: 50px;
+}
