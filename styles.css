@@ -41,7 +41,20 @@ body {
     height: 50px;
 }
 
-#figure {
-    width: 150px;
-    height: 150px; 
+figure {
+border: 3px solid;
+padding: 4px;
+width: 200px;
+ height: 150px; 
+  margin-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 80px;
+
+}
+
+figcaption {
+    background-color: rgb(72, 96, 173);
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    padding: 4px;
 }
